@@ -18,5 +18,6 @@
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
-git clone https://github.com/lxl6125/luci-app-adguardhome.git package/tanxg/luci-app-adguardhome
-git clone https://github.com/lxl6125/openwrt-qbittorrent-enhanced.git package/tanxg/openwrt-qbittorrent-enhanced
+git clone https://github.com/lxl6125/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone https://github.com/lxl6125/openwrt-qbittorrent-enhanced.git package/openwrt-qbittorrent-enhanced
+git clone git clone https://github.com/yuos-bit/luci-app-openclash.git package/luci-app-openclash
